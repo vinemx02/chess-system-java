@@ -16,5 +16,6 @@ public class King extends ChessPiece {
 	public String toString() {
 		return "K";
 	}
+	
 
 }
